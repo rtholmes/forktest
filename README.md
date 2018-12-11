@@ -13,3 +13,9 @@
 * `fork/master` needs to be able to contribute changes to `root/master`
 
 #### Fork initialization
+
+1. fork `root` into an account you control
+1. create a branch called `sync` on your `fork`
+1. add the upstream branch `git remote add upstream https://github.com/ubccpsc/classy.git` ([LINK](https://help.github.com/articles/configuring-a-remote-for-a-fork/))
+
+
